@@ -86,7 +86,7 @@ pos1 <-- osm1
 ```
 
 ## Aufgabe 3
-s. aufgabe3.png
+s. aufgabe3.png, https://github.com/fungewiss/ise25-26_assignment08
 
 ## Aufgabe 4
 
